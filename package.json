@@ -1,7 +1,7 @@
 {
   "name": "youtube_clone",
   "version": "0.1.0",
-  "homepage": "https://JerRamMissle.github.io/youtube.github.io",
+  "homepage": "https://jerrammissle.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
